@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: km to miles, Configuration: Debug|AnyCPU ------
+1>C:\Program Files\dotnet\sdk\7.0.203\Sdks\Microsoft.NET.Sdk\targets\Microsoft.PackageDependencyResolution.targets(266,5): error NETSDK1004: Assets file 'C:\Users\eshwa\Source\Repos\ChatelliEshwar\km-to-miles\km to miles\obj\project.assets.json' not found. Run a NuGet package restore to generate this file.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
